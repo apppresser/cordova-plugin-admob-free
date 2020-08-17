@@ -4,8 +4,8 @@
     <description>
         A sample cordova-plugin-admob-free application.
     </description>
-    <author email="jarodms@users.noreply.github.com" href="https://github.com/jarodms/cordova-plugin-admob-free">
-        jarodms
+    <author email="apppresser@users.noreply.github.com" href="https://github.com/apppresser/cordova-plugin-admob-free">
+        AppPresser
     </author>
     <content src="index.html" />
     <plugin name="cordova-plugin-whitelist" spec="~1.3.1" />

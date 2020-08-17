@@ -1,4 +1,4 @@
-package name.jarodms.cordova.admob.rewardvideo;
+package name.apppresser.cordova.admob.rewardvideo;
 
 import android.os.Bundle;
 import android.util.Log;
@@ -13,8 +13,8 @@ import org.apache.cordova.CordovaInterface;
 import org.apache.cordova.PluginResult;
 import org.json.JSONObject;
 
-import name.jarodms.cordova.admob.AbstractExecutor;
-import name.jarodms.cordova.admob.AdMob;
+import name.apppresser.cordova.admob.AbstractExecutor;
+import name.apppresser.cordova.admob.AdMob;
 
 public class RewardVideoExecutor extends AbstractExecutor {
     /**

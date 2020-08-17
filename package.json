@@ -27,8 +27,8 @@
       "ios"
     ]
   },
-  "homepage": "https://github.com/jarodms/cordova-plugin-admob-free",
-  "repository": "jarodms/cordova-plugin-admob-free",
+  "homepage": "https://github.com/apppresser/cordova-plugin-admob-free",
+  "repository": "apppresser/cordova-plugin-admob-free",
   "keywords": [
     "cordova",
     "admob",
@@ -42,7 +42,7 @@
     "admobpro"
   ],
   "tonicExampleFilename": "test.js",
-  "author": "jarodms",
+  "author": "AppPresser",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.4.5",

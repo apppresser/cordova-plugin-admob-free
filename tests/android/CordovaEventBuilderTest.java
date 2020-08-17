@@ -1,4 +1,4 @@
-package name.jarodms.cordova.admob;
+package name.apppresser.cordova.admob;
 
 import org.json.JSONException;
 import org.json.JSONObject;

@@ -6,7 +6,7 @@
     <license>MIT</license>
 
     <platform name="android">
-        <source-file src="android/AdMobConfigTest.java" target-dir="test/java/name/jarodms/cordova/admob" />
-        <source-file src="android/CordovaEventBuilderTest.java" target-dir="test/java/name/jarodms/cordova/admob" />
+        <source-file src="android/AdMobConfigTest.java" target-dir="test/java/name/apppresser/cordova/admob" />
+        <source-file src="android/CordovaEventBuilderTest.java" target-dir="test/java/name/apppresser/cordova/admob" />
     </platform>
 </plugin>
